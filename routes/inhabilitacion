@@ -1,0 +1,10 @@
+const { Router } = require('express')
+const InhabilitacionController = require('../controllers/inhabilitacion')
+
+const router = Router()
+
+router.get('/', InhabilitacionController.getInhabilitaciones)
+router.post('/guardar-inhabilitacion', InhabilitacionController.saveInhabilitacion)
+router.patch('/resolver-inhabilitacion/:id', InhabilitacionController.resolveInhabilitacion)
+
+module.exports = router
