@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525b"
+  },
+  "nombre": "Santiago Tavella Valencia",
+  "dorsal": 10,
+  "posicion": "Delantero",
+  "equipo": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525c"
+  },
+  "nombre": "Mateo Venega",
+  "dorsal": 5,
+  "posicion": "Defensa",
+  "equipo": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525d"
+  },
+  "nombre": "Riki Musso",
+  "dorsal": 8,
+  "posicion": "Mediocampista",
+  "equipo": {
+    "$oid": "6acd619a77777e08ac5d525a"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525e"
+  },
+  "nombre": "Diego Munoz",
+  "dorsal": 8,
+  "posicion": "Mediocampista",
+  "equipo": {
+    "$oid": "6acd619a77777e08ac5d525a"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5262"
+  },
+  "nombre": "Topo Marrero",
+  "dorsal": 1,
+  "posicion": "Portero",
+  "equipo": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5263"
+  },
+  "nombre": "Nicolas Caño",
+  "dorsal": 7,
+  "posicion": "Delantero",
+  "equipo": {
+    "$oid": "6acd64d377777e08ac5d5261"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5264"
+  },
+  "nombre": "Vincent Brooks",
+  "dorsal": 11,
+  "posicion": "Delantero",
+  "equipo": {
+    "$oid": "6acd64d377777e08ac5d5261"
+  },
+  "activo": true
+}]

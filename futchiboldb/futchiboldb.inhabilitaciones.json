@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525f"
+  },
+  "jugador": {
+    "$oid": "6acd619a77777e08ac5d525c"
+  },
+  "motivo": "tarjeta_roja",
+  "descripcion": "Expulsión directa en la jornada 1",
+  "fechaInicio": {
+    "$date": "2026-10-12T22:39:22.390Z"
+  },
+  "fechaFin": {
+    "$date": "2026-10-19T22:39:22.390Z"
+  },
+  "resuelta": false
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5265"
+  },
+  "jugador": {
+    "$oid": "6acd619a77777e08ac5d525e"
+  },
+  "motivo": "lesion",
+  "descripcion": "Esguince de tobillo en entrenamiento",
+  "fechaInicio": {
+    "$date": "2026-10-12T22:53:07.740Z"
+  },
+  "fechaFin": {
+    "$date": "2026-10-26T22:53:07.740Z"
+  },
+  "resuelta": false
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5266"
+  },
+  "jugador": {
+    "$oid": "6acd619a77777e08ac5d525b"
+  },
+  "motivo": "acumulacion_amarillas",
+  "descripcion": "Se cumplio la fecha de suspension por 3 amarillas",
+  "fechaInicio": {
+    "$date": "2026-10-02T22:53:07.742Z"
+  },
+  "fechaFin": {
+    "$date": "2026-10-09T22:53:07.742Z"
+  },
+  "resuelta": true
+}]

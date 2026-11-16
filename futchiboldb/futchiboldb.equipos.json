@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "nombre": "Atletico desempleados",
+  "capitan": "Miguel Sandoval",
+  "contacto": "3001234567",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d525a"
+  },
+  "nombre": "Deportivo smash",
+  "capitan": "Brayan Banguero",
+  "contacto": "3104655443",
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5261"
+  },
+  "nombre": "Real pipilin",
+  "capitan": "Alvaro456",
+  "contacto": "3158889900",
+  "activo": true
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6acd619a77777e08ac5d5260"
+  },
+  "equipoLocal": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "equipoVisitante": {
+    "$oid": "6acd619a77777e08ac5d525a"
+  },
+  "fechaPartido": {
+    "$date": "2026-10-14T22:39:22.401Z"
+  },
+  "lugar": "Cancha de la uniautonoma",
+  "alineacionLocal": [],
+  "alineacionVisitante": []
+},
+{
+  "_id": {
+    "$oid": "6acd64d377777e08ac5d5267"
+  },
+  "equipoLocal": {
+    "$oid": "6acd619a77777e08ac5d5259"
+  },
+  "equipoVisitante": {
+    "$oid": "6acd64d377777e08ac5d5261"
+  },
+  "fechaPartido": {
+    "$date": "2026-10-17T22:53:07.743Z"
+  },
+  "lugar": "Cancha del Polideportivo",
+  "alineacionLocal": [],
+  "alineacionVisitante": []
+}]
