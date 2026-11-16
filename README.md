@@ -85,7 +85,7 @@ En la terminal del visual ejecutar:
 
 node index.js
 
-Si todo se configuró correctamente, saldran en la consola los siguientes mensajes:
+Si todo se configuro correctamente, saldran en la consola los siguientes mensajes:
 
 Base de datos conectada correctamente
 Servidor corriendo en http://localhost:3000
